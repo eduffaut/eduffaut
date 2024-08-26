@@ -3,4 +3,10 @@
 ### Hi there 👋
 
 * 👂 My name is Emmanuel, I'm from Uruguay and currently working on Agesic as Infrastructure Consultant. 
-* 🌱 Studying Programmer Analyst in Ort University
+* 🌱 Studying Programmer Analyst in Ort University.
+
+### Skills
+
+* Infrastructure in general, sysadmin...
+* Cloud Knowledge
+* Coding...
